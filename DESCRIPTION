@@ -1,0 +1,19 @@
+Package: StatComp20022
+Type: Package
+Title: The final project
+Version: 1.0
+Date: 2020-12-18
+Author: Xin Zhang
+Maintainer: Xin Zhang <xinzhang32@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are
+ included in this package for illustration. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.5), Ball, DAAG, RANN, boot, bootstrap, energy, ggplot2, 
+    microbenchmark
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+Suggests: knitr, rmarkdown
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: http://github.com/xinzhang32/StatComp20022
+BugReports: http://github.com/xinzhang32/StatComp20022/issues
